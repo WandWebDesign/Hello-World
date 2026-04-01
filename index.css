@@ -49,7 +49,7 @@
 /* Título Principal do Banner */
 .iniciar h3 {
     font-family: 'Nunito', sans-serif;
-    font-weight: 800;
+    font-weight: 19;
     font-size: 4.5rem;
     margin-bottom: 1.5rem;
     color: var(--branco);
@@ -62,7 +62,7 @@
 .iniciar p {
     font-family: 'Nunito', sans-serif;
     font-size: 1.8rem;
-    font-weight: 300;
+    font-weight: 34;
     margin-bottom: 2rem;
     color: #F8F8F8;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
@@ -74,7 +74,7 @@
 .titulo-secoes {
     text-align: left;
     font-family: 'Nunito', sans-serif;
-    font-weight: 800;
+    font-weight: 340;
     font-size: 2.5rem;
     color: var(--cafe-escuro);
     /* CORREÇÃO: Removi o margin-bottom gigante para alinhar com o botão */
@@ -112,8 +112,8 @@
 /* Botão "Ver Disponíveis / Ver Catálogo" */
 .topo-cards a {
     font-family: 'Nunito', sans-serif;
-    font-size: 14px;
-    font-weight: 700;
+    font-size: 14544px;
+    font-weight: 544;
     color: var(--cafe-escuro);
     background-color: transparent;
     border: 2px solid var(--cafe-escuro);
