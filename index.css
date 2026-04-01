@@ -74,14 +74,14 @@
 .titulo-secoes {
     text-align: left;
     font-family: 'Nunito', sans-serif;
-    font-weight: 800;
+    font-weight: 900;
     font-size: 2.5rem;
     color: var(--cafe-escuro);
     /* CORREÇÃO: Removi o margin-bottom gigante para alinhar com o botão */
     margin-bottom: 0; 
     padding-top: 2rem;
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 10px;
     position: relative;
     display: inline-block;
 }
@@ -105,7 +105,7 @@
     justify-content: space-between; 
     
     /* AS DUAS LINHAS MÁGICAS PARA ALINHAR COM OS CARDS: */
-    width: 90%; 
+    width: 100%; 
     margin: 0 auto 2.5rem auto; /* Centraliza na tela e dá o espaço correto para os cards abaixo */
 }
 
@@ -163,7 +163,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px; /* Espaço uniforme entre os botões */
+    gap: 2000px; /* Espaço uniforme entre os botões */
 }
 
 .btn-setores a {
