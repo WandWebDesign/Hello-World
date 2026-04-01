@@ -109,6 +109,8 @@
     margin: 0 auto 2.5rem auto; /* Centraliza na tela e dá o espaço correto para os cards abaixo */
 }
 
+
+/* AGORA TEM ESSE TEXTO ADICIONADO PELO PULL REQUEST
 /* Botão "Ver Disponíveis / Ver Catálogo" */
 .topo-cards a {
     font-family: 'Nunito', sans-serif;
